@@ -24,7 +24,8 @@
 - [License](#license)
 
 ---
-
+google collab link:
+https://colab.research.google.com/drive/1ov4C_uOhK9CCbck0EtP4CFmD1XApknY7?usp=sharing
 ## 🎯 Overview
 
 This project conducts a thorough **fairness audit** of machine learning models predicting income levels (>50K vs ≤50K) using the UCI Adult Income dataset. We identify algorithmic bias across protected demographic groups and implement multiple mitigation strategies to improve fairness while maintaining model performance.
