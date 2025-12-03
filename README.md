@@ -100,7 +100,7 @@ bias-audit-project/
 
 ### Prerequisites
 - Python 3.8 or higher
-- Jupyter Notebook or Google Colab
+- Google Colab
 - pip package manager
 
 ### Setup Instructions
@@ -222,7 +222,7 @@ All results are **fully reproducible** using the provided notebook with `random_
 
 ## 📦 Deliverables
 
-### 1. **Jupyter Notebook** 
+### 1. **GOOGLE COLLAB** 
 Complete analysis with 7 sections covering data loading, EDA, model training, fairness metrics, bias mitigation, and comprehensive results.
 
 ### 2. **Presentation (7 slides)**
