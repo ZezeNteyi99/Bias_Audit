@@ -1,4 +1,3 @@
-# Bias_Audit
 # 🔍 Bias Audit: Machine Learning Fairness in Income Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -108,8 +107,8 @@ bias-audit-project/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/bias-audit-project.git
-cd bias-audit-project
+git clone https://github.com/ZezeNteyi99/Bias_Audit.git
+cd Bias_Audit
 ```
 
 2. **Install dependencies**
@@ -280,10 +279,11 @@ Key papers and resources used in this project:
 
 ## 👥 Contributors
 
-- **[Your Name]** - Data Scientist & Project Lead
-- **[Team Member 2]** - Visualization Specialist
-- **[Team Member 3]** - Ethics Analysis
-- **[Team Member 4]** - Technical Implementation
+- **Khanyisa Zezethu Nteyi** - Data Scientist & Project Lead
+- **Thembani Nkuna** - Technical Implementation
+- **Sphumelele Ngobese** - Visualization Specialist
+- **Kazimla Nkabalaza** - Fairness Analysis
+- **Fikile Noyila** - Ethics & Documentation
 
 ---
 
@@ -317,10 +317,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer:** [Your Name]
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+**Project Maintainer:** Khanyisa Zezethu Nteyi
+- 📧 Email: zezenteyi99@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/khanyisa-zezethu-nteyi-765390207](https://linkedin.com/in/khanyisa-zezethu-nteyi-765390207)
+- 🐙 GitHub: [@ZezeNteyi99](https://github.com/ZezeNteyi99)
 
 ---
 
@@ -335,5 +335,5 @@ If you found this project helpful, please consider giving it a star! It helps ot
 </p>
 
 <p align="center">
-  <sub>Last Updated: December 2024</sub>
+  <sub>Last Updated: December 2025</sub>
 </p>
